@@ -1,4 +1,4 @@
 # Simple-weather
 
-![image info](./WeatherApp.png)
+![image info](./src/WeatherApp.png)
 
